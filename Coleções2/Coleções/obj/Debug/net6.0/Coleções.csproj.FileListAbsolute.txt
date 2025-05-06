@@ -1,0 +1,15 @@
+C:\Users\Win10\Documents\Coleções2\Coleções\bin\Debug\net6.0\Coleções.exe
+C:\Users\Win10\Documents\Coleções2\Coleções\bin\Debug\net6.0\Coleções.deps.json
+C:\Users\Win10\Documents\Coleções2\Coleções\bin\Debug\net6.0\Coleções.runtimeconfig.json
+C:\Users\Win10\Documents\Coleções2\Coleções\bin\Debug\net6.0\Coleções.dll
+C:\Users\Win10\Documents\Coleções2\Coleções\bin\Debug\net6.0\ref\Coleções.dll
+C:\Users\Win10\Documents\Coleções2\Coleções\bin\Debug\net6.0\Coleções.pdb
+C:\Users\Win10\Documents\Coleções2\Coleções\obj\Debug\net6.0\Coleções.csproj.AssemblyReference.cache
+C:\Users\Win10\Documents\Coleções2\Coleções\obj\Debug\net6.0\Coleções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Documents\Coleções2\Coleções\obj\Debug\net6.0\Coleções.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\Coleções2\Coleções\obj\Debug\net6.0\Coleções.AssemblyInfo.cs
+C:\Users\Win10\Documents\Coleções2\Coleções\obj\Debug\net6.0\Coleções.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\Coleções2\Coleções\obj\Debug\net6.0\Coleções.dll
+C:\Users\Win10\Documents\Coleções2\Coleções\obj\Debug\net6.0\ref\Coleções.dll
+C:\Users\Win10\Documents\Coleções2\Coleções\obj\Debug\net6.0\Coleções.pdb
+C:\Users\Win10\Documents\Coleções2\Coleções\obj\Debug\net6.0\Coleções.genruntimeconfig.cache
