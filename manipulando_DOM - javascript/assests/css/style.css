@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(228, 223, 223);
+    text-align: center;
+    padding: 200px;
+}
+
+.button-class {
+    border-radius: 12px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(121, 118, 118);
+    cursor: pointer;
+
+}
+
+
+.button-class:active {
+    transform: translateY(4px);
+}
